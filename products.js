@@ -779,7 +779,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Sage",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -801,7 +801,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Assorted",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "Red",
@@ -830,7 +830,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Cream",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -853,7 +853,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Navy",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -876,7 +876,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Assorted",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "Light Blue",
@@ -903,7 +903,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Assorted",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "Navy",
@@ -929,7 +929,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Assorted",
-      "price": 40,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "Cream",
@@ -956,7 +956,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Brown",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -976,7 +976,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Khaki",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -996,7 +996,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Black",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1016,7 +1016,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Cream",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1036,7 +1036,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Black",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1056,7 +1056,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Navy",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1076,7 +1076,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Cream",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1097,7 +1097,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Brown",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1117,7 +1117,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "White",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1137,7 +1137,7 @@ window.HOUSE_OF_A1 = {
       "category": "caps",
       "type": "caps",
       "colour": "Black",
-      "price": 45,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
