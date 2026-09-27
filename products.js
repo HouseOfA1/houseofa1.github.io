@@ -167,7 +167,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Brown",
-      "price": 185,
+      "price": 230,
       "compareAt": null,
       "sizes": [
         "One Size"
