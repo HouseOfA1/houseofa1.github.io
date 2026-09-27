@@ -2934,7 +2934,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "White",
-      "price": 110,
+      "price": 150,
       "compareAt": null,
       "sizes": [
         "S",
