@@ -42,7 +42,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-monogram-dopp-kit-orange",
@@ -64,7 +65,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-monogram-dopp-kit-cream",
@@ -88,7 +90,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-monogram-dopp-kit-green",
@@ -111,7 +114,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-cherry-speedy-25-white",
@@ -135,7 +139,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Speedy 25 in white monogram canvas with an all-over cherry print, natural leather handles and trim, padlock and denim-lined interior.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-cherry-denim-pleated-shoulder-bag",
@@ -159,7 +164,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Pleated denim shoulder bag with cherry print monogram, leather top handle, gold-tone push-lock and 20th anniversary leather patch.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-cherry-blossom-speedy-25-brown",
@@ -185,7 +191,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Speedy 25 in monogram canvas with pink cherry blossom print, natural leather handles, padlock, pink lining and 20th anniversary leather patch.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-alma-bb-cream",
@@ -205,7 +212,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Alma BB in cream embossed monogram leather with rolled handles, gold-tone hardware and a fluffy bag charm.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-damier-keepall-45-brown",
@@ -229,7 +237,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Damier check canvas with black leather trim and red interior.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-monogram-eclipse-keepall-45-black",
@@ -253,7 +262,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Black and grey monogram canvas with black leather trim.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-monogram-embossed-keepall-45-navy",
@@ -277,7 +287,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Navy embossed monogram leather with tonal trim.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-world-tour-keepall-45",
@@ -298,7 +309,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Monogram canvas covered in printed travel stickers with natural leather trim.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-monogram-keepall-45-sage",
@@ -321,7 +333,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Sage green leather with an oversized white monogram print and tonal trim.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-denim-monogram-keepall-45-light-blue",
@@ -344,7 +357,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Light blue monogram denim with blue leather trim and navy interior.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "gyrd-goyardine-zip-pouch-black-tan",
@@ -366,7 +380,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "gyrd-goyardine-zip-pouch-black",
@@ -388,7 +403,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "gyrd-goyardine-zip-pouch-red",
@@ -410,7 +426,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "gyrd-goyardine-zip-pouch-green",
@@ -432,7 +449,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "gyrd-goyardine-zip-pouch-navy",
@@ -454,7 +472,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "prd-re-nylon-messenger-bag-black",
@@ -476,7 +495,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Recycled nylon messenger bag with a fold-over flap, buckle straps, detachable mini pouch, adjustable webbing strap and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-saffiano-briefcase-grey",
@@ -499,7 +519,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Saffiano leather briefcase with twin top handles, detachable shoulder strap, zip closure, logo-lined interior and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-messenger-bag-grey",
@@ -520,7 +541,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Recycled nylon messenger bag in grey with black flap, orange trim, buckle straps, detachable mini pouch and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-saffiano-briefcase-black",
@@ -542,7 +564,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Saffiano leather briefcase with twin top handles, detachable shoulder strap, zip closure, logo-lined interior and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-saffiano-document-pouch-navy",
@@ -562,7 +585,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Saffiano leather zip document pouch with enamel triangle logo and logo-lined interior.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-saffiano-document-pouch-black",
@@ -583,7 +607,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Saffiano leather zip document pouch with enamel triangle logo and logo-lined interior.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-quilted-re-nylon-travel-bag-black",
@@ -605,7 +630,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Quilted recycled nylon travel bag with twin top handles, detachable shoulder strap, zip closure and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-shoulder-bag-light-blue",
@@ -627,7 +653,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Recycled nylon flap shoulder bag with an adjustable webbing strap, magnetic flap, inner zip pocket and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-shoulder-bag-black",
@@ -649,7 +676,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Recycled nylon flap shoulder bag with an adjustable webbing strap, magnetic flap, inner zip pocket and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "gci-gg-supreme-messenger-bag-black",
@@ -669,7 +697,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "GG Supreme canvas messenger bag in black and grey with a magnetic flap, adjustable webbing strap and leather trim.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "gci-gg-supreme-backpack-beige",
@@ -689,7 +718,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "GG Supreme canvas backpack in beige and ebony with leather trim, padded straps and a front zip pocket.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "gci-gg-supreme-briefcase-brown",
@@ -709,7 +739,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "GG Supreme canvas briefcase in beige and brown with leather handles and trim, detachable shoulder strap and zip closure.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "gci-gg-supreme-briefcase-black",
@@ -729,7 +760,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "GG Supreme canvas briefcase in black and grey with leather handles and trim, detachable shoulder strap and zip closure.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-monogram-key-pouch-burgundy",
@@ -750,7 +782,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Monogram coated canvas key pouch with zip closure and key ring, boxed.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-monogram-key-pouch-green",
@@ -771,7 +804,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Monogram coated canvas key pouch with zip closure and key ring, boxed.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "gci-gg-canvas-cap-sage",
@@ -793,7 +827,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "GG jacquard canvas baseball cap with an adjustable strap at the back. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "gci-gg-canvas-cap-choose-your-colour",
@@ -822,7 +857,8 @@ window.HOUSE_OF_A1 = {
       ],
       "description": "GG jacquard canvas baseball cap with an adjustable strap at the back, in nine colours. One size.",
       "soldOut": false,
-      "optionLabel": "Colour"
+      "optionLabel": "Colour",
+      "gender": "unisex"
     },
     {
       "id": "hrms-h-cap-cream",
@@ -845,7 +881,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Textured cotton baseball cap with an embroidered orange H, orange peak trim and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "hrms-h-cap-navy",
@@ -868,7 +905,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with an embroidered orange H, orange peak trim and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "chnl-distressed-cap-choose-your-colour",
@@ -895,7 +933,8 @@ window.HOUSE_OF_A1 = {
       ],
       "description": "Distressed cotton baseball cap with a small embroidered CC logo, in seven colours. One size.",
       "soldOut": false,
-      "optionLabel": "Colour"
+      "optionLabel": "Colour",
+      "gender": "women"
     },
     {
       "id": "ch-cross-cap-choose-your-colour",
@@ -921,7 +960,8 @@ window.HOUSE_OF_A1 = {
       ],
       "description": "Cotton baseball cap with an embroidered cross and distressed peak, in six colours. One size.",
       "soldOut": false,
-      "optionLabel": "Colour"
+      "optionLabel": "Colour",
+      "gender": "unisex"
     },
     {
       "id": "lv-lettering-cap-brown",
@@ -941,7 +981,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with 3D embroidered lettering across the front and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-lettering-cap-khaki",
@@ -961,7 +1002,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with 3D embroidered lettering across the front and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-lettering-cap-black",
@@ -981,7 +1023,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with 3D embroidered lettering across the front and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-lettering-cap-cream",
@@ -1001,7 +1044,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with 3D embroidered lettering across the front and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-multicolour-logo-cap-black",
@@ -1021,7 +1065,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with a multicolour embroidered logo and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-multicolour-logo-cap-navy",
@@ -1041,7 +1086,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with a multicolour embroidered logo and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-multicolour-logo-cap-cream",
@@ -1062,7 +1108,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with a multicolour embroidered logo and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "lv-multicolour-logo-cap-brown",
@@ -1082,7 +1129,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with a multicolour embroidered logo and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "cd-paris-cap-white",
@@ -1102,7 +1150,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with an embroidered script logo, tonal stitched panels and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "cd-paris-cap-black",
@@ -1122,7 +1171,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton baseball cap with an embroidered script logo, tonal stitched panels and adjustable strap. One size.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-black",
@@ -1148,7 +1198,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, tricolour hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-navy",
@@ -1175,7 +1226,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, tricolour hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-white",
@@ -1201,7 +1253,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, tricolour hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-khaki",
@@ -1227,7 +1280,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, tricolour hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-orange",
@@ -1253,7 +1307,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, tricolour hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-embossed-logo-windbreaker-black",
@@ -1279,7 +1334,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a hood, full zip, tonal embossed logo lettering across the chest and logo badge on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-navy-pink-trim",
@@ -1305,7 +1361,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, contrast piped hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-black-pink-trim",
@@ -1331,7 +1388,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, contrast piped hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-white-navy-trim",
@@ -1357,7 +1415,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, contrast piped hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-pocket-windbreaker-jacket-green",
@@ -1382,7 +1441,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, full zip, flap chest pocket and logo badge on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-pocket-windbreaker-jacket-navy",
@@ -1407,7 +1467,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker with a drawstring hood, full zip, flap chest pocket and logo badge on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-down-jacket-black",
@@ -1433,7 +1494,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Hooded down-filled puffer jacket in a lightweight lacquered nylon with a detachable hood, zip pockets and logo badge on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-down-jacket-gunmetal",
@@ -1459,7 +1521,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Hooded down-filled puffer jacket in a lightweight lacquered nylon with a detachable hood, zip pockets and logo badge on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-hooded-down-jacket-olive",
@@ -1485,7 +1548,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Hooded down-filled puffer jacket in a matte nylon with a detachable hood, zip pockets and logo badge on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "chnl-vanity-case-with-chain-light-blue",
@@ -1508,7 +1572,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Quilted caviar leather vanity case with a top handle, detachable chain strap, gold-tone hardware and CC turn-lock, with a mirror inside.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "chnl-vanity-case-with-chain-grey",
@@ -1530,7 +1595,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Quilted caviar leather vanity case with a top handle, detachable chain strap, gold-tone hardware and CC turn-lock, with a mirror inside.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "chnl-vanity-case-with-chain-black",
@@ -1553,7 +1619,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Quilted caviar leather vanity case with a top handle, detachable chain strap, gold-tone hardware and CC turn-lock, with a mirror inside.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "chnl-vanity-case-with-chain-denim",
@@ -1575,7 +1642,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Quilted denim vanity case with a top handle, detachable chain strap, gold-tone hardware and CC turn-lock, with a mirror inside.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "chnl-flap-shoulder-bag-white",
@@ -1596,7 +1664,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Smooth calfskin flap shoulder bag with slim double straps, gold-tone CC clasp and a soft flap that opens onto a single compartment.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "chnl-flap-shoulder-bag-light-blue",
@@ -1617,7 +1686,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Smooth calfskin flap shoulder bag with slim double straps, gold-tone CC clasp and a soft flap that opens onto a single compartment.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "chnl-flap-shoulder-bag-grey-blue",
@@ -1638,7 +1708,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Smooth calfskin flap shoulder bag with slim double straps, gold-tone CC clasp and a soft flap that opens onto a single compartment.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-cherry-slingback-pump-grey-denim",
@@ -1666,7 +1737,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Pointed-toe slingback pump with an adjustable ankle strap, sculpted cherry heel and monogram-print upper.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-cherry-slingback-pump-pink",
@@ -1694,7 +1766,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Pointed-toe slingback pump with an adjustable ankle strap, sculpted cherry heel and monogram-print upper.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-cherry-slingback-pump-blue-denim",
@@ -1721,7 +1794,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Pointed-toe slingback pump with an adjustable ankle strap, sculpted cherry heel and monogram-print upper.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-cherry-slingback-pump-cherry-print",
@@ -1748,7 +1822,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Pointed-toe slingback pump with an adjustable ankle strap, sculpted cherry heel and all-over cherry print upper.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "women"
     },
     {
       "id": "lv-monogram-swim-shorts-beige",
@@ -1772,7 +1847,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Beige swim shorts with an all-over tonal monogram print, elasticated belted waist and side pockets.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-waffle-knit-polo-shirt-light-blue",
@@ -1799,7 +1875,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Light blue waffle-knit short-sleeve polo with contrast white collar, button placket, chest pocket and leather logo patch at the neck.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-monogram-flower-embroidered-t-shirt-black",
@@ -1826,7 +1903,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton T-shirt with gold monogram flowers embroidered across the chest and back yoke.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-peace-hand-patch-t-shirt-white",
@@ -1853,7 +1931,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "White cotton T-shirt with a navy peace-sign hand patch on the chest and woven label at the back neck.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-cable-knit-crest-t-shirt-light-blue",
@@ -1880,7 +1959,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Light blue cable-knit cotton T-shirt with a crest badge on the chest, contrast rib neck and VUITTON lettering across the back.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lwe-anagram-t-shirt-green",
@@ -1907,7 +1987,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Green cotton T-shirt with a tonal embroidered anagram at the chest. Regular fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-running-shorts-black",
@@ -1934,7 +2015,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black lightweight running shorts with an inner mesh layer, zip pocket and reflective logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-charcoal",
@@ -1963,7 +2045,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in perforated calfskin with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-white",
@@ -1991,7 +2074,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in perforated calfskin with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-grey",
@@ -2019,7 +2103,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in perforated calfskin with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-greige",
@@ -2047,7 +2132,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in perforated calfskin with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-black",
@@ -2075,7 +2161,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in perforated calfskin with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-all-black",
@@ -2103,7 +2190,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in perforated calfskin with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-ice-blue",
@@ -2131,7 +2219,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical knit with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-grey-black",
@@ -2159,7 +2248,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical knit with orange H with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-silver",
@@ -2187,7 +2277,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in metallic leather with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-gold",
@@ -2215,7 +2306,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in metallic leather with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-black-white",
@@ -2243,7 +2335,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical knit with red H with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-green-white",
@@ -2271,7 +2364,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical knit with red H with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-white-black",
@@ -2299,7 +2393,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical knit with red H with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-black-knit",
@@ -2327,7 +2422,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical mesh knit with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-khaki-knit",
@@ -2355,7 +2451,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical mesh knit with orange H with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-grey-knit",
@@ -2383,7 +2480,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical mesh knit with blue sole with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-cream",
@@ -2411,7 +2509,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede and mesh with orange H with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-black-knit-white-h",
@@ -2439,7 +2538,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in technical mesh knit with white H with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-dark-brown-suede",
@@ -2467,7 +2567,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-taupe-suede",
@@ -2495,7 +2596,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-grey-suede",
@@ -2523,7 +2625,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-brown-suede",
@@ -2552,7 +2655,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-black-suede",
@@ -2580,7 +2684,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-slate-blue-suede",
@@ -2608,7 +2713,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with blue sole with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-navy-suede",
@@ -2636,7 +2742,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-lavender-suede",
@@ -2664,7 +2771,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-sand-suede",
@@ -2692,7 +2800,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-bouncing-trainer-grey-black-suede",
@@ -2720,7 +2829,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Low-top trainer in suede with the striped H sole detail, padded collar and pull tab, on a sculpted rubber outsole.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "mnclr-pom-beanie-scarf-set-white",
@@ -2740,7 +2850,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Boxed gift set of a ribbed wool-blend beanie with a detachable fur pom and a matching scarf, both with the embroidered logo badge.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "mnclr-cable-knit-pom-beanie-scarf-set-taupe",
@@ -2760,7 +2871,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Boxed gift set of a cable-knit wool-blend beanie with a detachable fur pom and a matching cable-knit scarf, both with the logo badge.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "mnclr-pom-beanie-scarf-set-grey",
@@ -2780,7 +2892,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Boxed gift set of a ribbed wool-blend beanie with a detachable fur pom and a matching scarf, both with the embroidered logo badge.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "mnclr-pom-beanie-scarf-set-black",
@@ -2800,7 +2913,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Boxed gift set of a ribbed wool-blend beanie with a detachable fur pom and a matching scarf, both with the embroidered logo badge.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "mnclr-ribbed-beanie-scarf-set-black",
@@ -2820,7 +2934,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Boxed gift set of a ribbed wool-blend beanie and matching scarf with the embroidered logo badge. No pom.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "unisex"
     },
     {
       "id": "mnclr-hooded-windbreaker-jacket-green",
@@ -2847,7 +2962,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight nylon windbreaker in green with a drawstring hood, tricolour hood trim, full zip, logo badge on the chest and elasticated cuffs and hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "ch-horseshoe-zip-hoodie-black",
@@ -2874,7 +2990,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton zip-through hoodie with horseshoe logo on the chest, large horseshoe New York print on the back, silver zip pulls and CH embroidery on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "ch-nyc-scroll-t-shirt-black",
@@ -2900,7 +3017,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton T-shirt with a chest pocket, cross detail on the sleeve and a red and white Chrome Hearts NYC scroll print across the back.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "ch-embroidered-sweat-shorts-black",
@@ -2926,7 +3044,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton sweat shorts with a drawstring waist, tonal CH embroidery on the leg and metal logo pull.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "ch-dagger-los-angeles-long-sleeve-t-shirt-white",
@@ -2953,7 +3072,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "White long-sleeve cotton T-shirt with a green and red dagger print on the chest pocket, Los Angeles lettering and printed sleeves.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "ch-embossed-horseshoe-t-shirt-white",
@@ -2979,7 +3099,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "White heavyweight cotton T-shirt with a tonal embossed horseshoe emblem on the chest and a large embossed horseshoe on the back.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "ch-cross-patch-shorts-black",
@@ -3005,7 +3126,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton shorts with leather cross patches on the leg, raw hem and drawstring waist.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cg-expedition-parka-black",
@@ -3031,7 +3153,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Heavyweight down-filled expedition parka with a removable coyote-style fur hood trim, four front flap pockets, arm badge and adjustable drawcord waist. Rated for deep winter.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cg-expedition-parka-graphite",
@@ -3059,7 +3182,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Heavyweight down-filled expedition parka in graphite with a removable fur hood trim, four front flap pockets, arm badge and adjustable drawcord waist.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cg-hooded-puffer-jacket-ice-blue",
@@ -3085,7 +3209,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Short down-filled puffer jacket in a matte ice-blue finish with a fixed hood, two-way zip, side zip pockets and a tonal badge on the sleeve.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cg-expedition-parka-black-label",
@@ -3111,7 +3236,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Down-filled expedition parka in black with tonal black-label badge and patch, removable fur hood trim and four front flap pockets.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cg-x-ovo-reflective-parka-black",
@@ -3137,7 +3263,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Limited edition black down parka with reflective stripe detailing, reflective OCTOBER'S VERY OWN back print, hood and arm badge.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cg-lance-mackey-patch-parka-black",
@@ -3163,7 +3290,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black down-filled expedition parka with sponsor patches on the front and back, Lance Mackey back print, fur hood trim and reflective stripes.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-sage",
@@ -3187,7 +3315,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-cornflower-blue",
@@ -3211,7 +3340,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-brown",
@@ -3235,7 +3365,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-lime-olive",
@@ -3259,7 +3390,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-lime",
@@ -3283,7 +3415,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-navy",
@@ -3307,7 +3440,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-red",
@@ -3331,7 +3465,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-chocolate",
@@ -3355,7 +3490,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-green",
@@ -3379,7 +3515,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-midnight",
@@ -3403,7 +3540,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-black",
@@ -3427,7 +3565,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-grey",
@@ -3451,7 +3590,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-baby-blue",
@@ -3475,7 +3615,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-white",
@@ -3499,7 +3640,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-burgundy",
@@ -3524,7 +3666,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-americas-cup-patent-trainer-royal-blue",
@@ -3548,7 +3691,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Low-top trainer in glossy patent leather with a breathable technical mesh upper, signature red enamel tab and a sculpted white rubber sole. Padded collar and lace-up front.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-holdall-black",
@@ -3566,7 +3710,8 @@ window.HOUSE_OF_A1 = {
       ],
       "tags": [],
       "description": "Recycled nylon holdall with saffiano leather trim, enamel triangle logo, twin top handles and a detachable, adjustable shoulder strap. Zip fastening.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-zip-shirt-grey",
@@ -3590,7 +3735,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight recycled nylon short-sleeve shirt with a two-way zip front, enamel triangle logo, chest pockets and a drawstring hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-zip-shirt-light-blue",
@@ -3614,7 +3760,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight recycled nylon short-sleeve shirt with a two-way zip front, enamel triangle logo, chest pockets and a drawstring hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-monogram-hooded-zip-jacket-brown",
@@ -3638,7 +3785,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Hooded zip-through jacket in a soft tonal monogram jacquard with ribbed cuffs and hem and side pockets.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "hrms-h-embroidered-t-shirt-black",
@@ -3662,7 +3810,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Heavyweight cotton crew-neck T-shirt with a tonal embroidered H at the chest. Relaxed fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-embossed-logo-t-shirt-beige",
@@ -3686,7 +3835,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cotton crew-neck T-shirt with a tonal embossed logo across the chest and textured knit sleeves.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-embroidered-logo-t-shirt-blue",
@@ -3710,7 +3860,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Sky-blue cotton crew-neck T-shirt with a tonal embroidered logo at the chest. Regular fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-monogram-pocket-t-shirt-black",
@@ -3734,7 +3885,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton crew-neck T-shirt with a monogram jacquard chest pocket. Regular fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-pocket-t-shirt-grey",
@@ -3758,7 +3910,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Grey cotton crew-neck T-shirt with a contrast patch chest pocket. Relaxed fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-monogram-forest-t-shirt-navy",
@@ -3782,7 +3935,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Navy knit T-shirt with an all-over monogram forest graphic in tonal jacquard.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-malletier-t-shirt-cream",
@@ -3806,7 +3960,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cream cotton crew-neck T-shirt with a stacked Malletier lettering print and logo at the chest.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "gci-gg-jacquard-t-shirt-black",
@@ -3830,7 +3985,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton T-shirt with an all-over tonal GG jacquard and ribbed crew neck.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-cargo-shorts-black",
@@ -3854,7 +4010,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Recycled nylon shorts with an elasticated waist, cargo pocket and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-zip-shirt-black",
@@ -3878,7 +4035,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight recycled nylon short-sleeve shirt with a two-way zip front, enamel triangle logo, chest pockets and a drawstring hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-re-nylon-zip-shirt-beige",
@@ -3902,7 +4060,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Lightweight recycled nylon short-sleeve shirt with a two-way zip front, enamel triangle logo, chest pockets and a drawstring hem.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-triangle-zip-shirt-black",
@@ -3926,7 +4085,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black cotton short-sleeve shirt with a full zip front, spread collar and enamel triangle logo at the chest.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cd-oblique-t-shirt-blue",
@@ -3950,7 +4110,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Blue cotton T-shirt with an all-over oblique jacquard pattern and ribbed trims.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "cd-1917-t-shirt-white",
@@ -3974,7 +4135,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Off-white cotton T-shirt with a 1917 print and scattered sketch graphics. Relaxed fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-marque-deposee-t-shirt-green",
@@ -3998,7 +4160,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Green cotton T-shirt with a hand-drawn style Marque Déposée print across the chest.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "ami-de-coeur-raglan-t-shirt-cream-navy",
@@ -4022,7 +4185,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Cream cotton T-shirt with contrast navy raglan sleeves and a tonal embroidered heart at the chest.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "brbry-ekd-t-shirt-white",
@@ -4046,7 +4210,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "White cotton T-shirt with a tonal embroidered equestrian knight emblem at the chest.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-damier-patchwork-knit-t-shirt-navy",
@@ -4070,7 +4235,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Navy knitted T-shirt with a patchwork of monogram and check jacquards. Relaxed fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-monogram-patchwork-t-shirt-blue",
@@ -4094,7 +4260,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Blue cotton T-shirt with monogram patchwork panels and a contrast chest pocket.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-triangle-logo-t-shirt-brown",
@@ -4118,7 +4285,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Brown heavyweight cotton T-shirt with an enamel triangle logo at the chest. Boxy fit.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-lovers-t-shirt-white",
@@ -4142,7 +4310,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "White cotton T-shirt with a metallic Lovers script embroidered at the chest.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-knit-zip-hoodie-black",
@@ -4166,7 +4335,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black knitted zip-through hoodie with contrast stitching, appliqué logo and kangaroo pockets.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "acne-gym-layered-long-sleeve-t-shirt-grey",
@@ -4190,7 +4360,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Grey oversized T-shirt with a Gym graphic print and built-in check flannel long sleeves.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "prd-leather-overshirt-black",
@@ -4214,7 +4385,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black nappa leather overshirt with a spread collar, button front and enamel triangle logo.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     },
     {
       "id": "lv-monogram-faux-fur-hooded-jacket-black",
@@ -4238,7 +4410,8 @@ window.HOUSE_OF_A1 = {
         "new"
       ],
       "description": "Black faux-fur hooded jacket with an all-over monogram, zip front and ribbed trims.",
-      "soldOut": false
+      "soldOut": false,
+      "gender": "men"
     }
   ]
 };

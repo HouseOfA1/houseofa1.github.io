@@ -340,10 +340,10 @@ details.help ol{padding-left:18px;margin:8px 0 0}
         <svg viewBox="0 0 24 24"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
       </button>
       <nav class="nav left" aria-label="Shop">
+        <a href="#/c/men" data-nav="men">Men</a>
+        <a href="#/c/women" data-nav="women">Women</a>
         <a href="#/c/new" data-nav="new">New Arrivals</a>
-        <a href="#/c/pre-order" data-nav="pre-order">Pre-Order</a>
         <a href="#/c/clothing" data-nav="clothing">Clothing</a>
-        <a href="#/c/accessories" data-nav="accessories">Accessories</a>
         <a href="#/c/sale" data-nav="sale">Sale</a>
       </nav>
     </div>
@@ -352,6 +352,7 @@ details.help ol{padding-left:18px;margin:8px 0 0}
       <nav class="nav right" aria-label="Shop">
         <a href="#/c/bags" data-nav="bags">Bags</a>
         <a href="#/c/footwear" data-nav="footwear">Footwear</a>
+        <a href="#/c/accessories" data-nav="accessories">Accessories</a>
         <div class="sizemenu" id="sizeMenu">
           <button type="button" class="navbtn caps" id="sizeMenuBtn" aria-haspopup="true">Shop by size</button>
           <div class="sizepanel" id="sizePanel"></div>
@@ -400,6 +401,8 @@ details.help ol{padding-left:18px;margin:8px 0 0}
       </div>
       <div>
         <h4>Shop</h4>
+        <a href="#/c/men">Men</a>
+        <a href="#/c/women">Women</a>
         <a href="#/c/new">New Arrivals</a>
         <a href="#/c/pre-order">Pre-Order</a>
         <a href="#/c/clothing">Clothing</a>
@@ -436,8 +439,9 @@ details.help ol{padding-left:18px;margin:8px 0 0}
   <div class="drawer-head"><h2>Menu</h2><button class="closebtn" type="button" data-close>&times;</button></div>
   <div class="drawer-body">
     <nav class="mobile-nav">
+      <a href="#/c/men">Men</a>
+      <a href="#/c/women">Women</a>
       <a href="#/c/new">New Arrivals</a>
-      <a href="#/c/pre-order">Pre-Order</a>
       <a href="#/c/clothing">Clothing</a>
       <a href="#/c/footwear">Footwear</a>
       <a href="#/c/bags">Bags</a>
@@ -518,6 +522,8 @@ const CATEGORIES = ['footwear','clothing','bags','caps','accessories'];
 const TYPES = { footwear:['trainers','heels','boots','slides'], clothing:['t-shirts','shirts','jackets','coats','hoodies','knitwear','shorts','trousers','tracksuits'], bags:['bags'], caps:['caps'], accessories:['accessories'] };
 const COLLECTIONS = {
   all:        { title:'All products', filter: () => true },
+  men:        { title:'Men',          filter: p => p.gender !== 'women' },
+  women:      { title:'Women',        filter: p => p.gender === 'women' || p.gender === 'unisex' },
   new:        { title:'New arrivals', filter: p => tag(p,'new') },
   'pre-order':{ title:'Pre-order',    filter: p => tag(p,'pre-order') },
   clothing:   { title:'Clothing',     filter: p => p.category==='clothing' },
@@ -677,9 +683,11 @@ function renderCollection(key, arg){
   else if (key === 'search') { const q = arg.toLowerCase(); title = `Results for “${arg}”`; list = all.filter(p => (p.name + ' ' + (p.colour||'') + ' ' + (p.type||'') + ' ' + (p.category||'')).toLowerCase().includes(q)); }
   else {
     const c = COLLECTIONS[key] || COLLECTIONS.all; title = c.title; list = all.filter(c.filter);
-    if (arg) list = list.filter(p => p.type === arg);
-    const types = Array.from(new Set(all.filter(c.filter).map(p => p.type).filter(Boolean)));
-    if (key === 'all') chipsHtml = `<div class="chips"><a class="chip active" href="#/c/all">All</a>${['new','footwear','clothing','bags','caps','accessories','sale'].filter(k => all.some(COLLECTIONS[k].filter)).map(k => `<a class="chip" href="#/c/${k}">${esc(COLLECTIONS[k].title)}</a>`).join('')}</div>`;
+    const byCat = key === 'men' || key === 'women';
+    if (arg) list = list.filter(p => (byCat ? p.category : p.type) === arg);
+    const types = Array.from(new Set(all.filter(c.filter).map(p => byCat ? p.category : p.type).filter(Boolean)));
+    if (byCat) types.sort((x, y) => ['footwear','clothing','bags','caps','accessories'].indexOf(x) - ['footwear','clothing','bags','caps','accessories'].indexOf(y));
+    if (key === 'all') chipsHtml = `<div class="chips"><a class="chip active" href="#/c/all">All</a>${['men','women','new','footwear','clothing','bags','caps','accessories','sale'].filter(k => all.some(COLLECTIONS[k].filter)).map(k => `<a class="chip" href="#/c/${k}">${esc(COLLECTIONS[k].title)}</a>`).join('')}</div>`;
     else if (types.length > 1) chipsHtml = `<div class="chips"><a class="chip ${!arg?'active':''}" href="#/c/${key}">All</a>${types.map(t => `<a class="chip ${arg===t?'active':''}" href="#/c/${key}/${encodeURIComponent(t)}">${esc(t)}</a>`).join('')}</div>`;
   }
   list = sortList(list);
@@ -925,10 +933,10 @@ function renderAdmin(){
     </ol></details>
     ${P().map((p,i) => `<div class="arow">
       ${imgTag(firstImg(p))}
-      <div><div class="n">${esc(p.name)}</div><div class="m">${money(p.price)}${isSale(p)?` <s>${money(p.compareAt)}</s>`:''} · ${esc(p.category)}${p.type?` / ${esc(p.type)}`:''}${p.soldOut?' · <b>sold out</b>':''}${(p.tags||[]).length?` · ${esc((p.tags||[]).join(', '))}`:''}</div></div>
+      <div><div class="n">${esc(p.name)}</div><div class="m">${money(p.price)}${isSale(p)?` <s>${money(p.compareAt)}</s>`:''} · ${esc(p.category)}${p.type?` / ${esc(p.type)}`:''}${p.gender ? ` · ${p.gender === 'unisex' ? 'men & women' : esc(p.gender)}` : ''}${p.soldOut?' · <b>sold out</b>':''}${(p.tags||[]).length?` · ${esc((p.tags||[]).join(', '))}`:''}</div></div>
       <div class="acts"><button class="mini" type="button" data-edit="${i}">Edit</button><button class="mini" type="button" data-up="${i}" ${i===0?'disabled':''}>↑</button><button class="mini" type="button" data-down="${i}" ${i===P().length-1?'disabled':''}>↓</button><button class="mini danger" type="button" data-del="${i}">✕</button></div>
     </div>`).join('')}`;
-  $('#newItem').addEventListener('click', () => { draft = { id:'', name:'', category:'clothing', type:'t-shirts', colour:'', price:'', compareAt:'', sizes:['S','M','L','XL','XXL'], images:[], tags:['new'], description:'', soldOut:false, _new:true }; renderAdmin(); });
+  $('#newItem').addEventListener('click', () => { draft = { id:'', name:'', category:'clothing', gender:'men', type:'t-shirts', colour:'', price:'', compareAt:'', sizes:['S','M','L','XL','XXL'], images:[], tags:['new'], description:'', soldOut:false, _new:true }; renderAdmin(); });
   $$('[data-edit]').forEach(b => b.addEventListener('click', () => { draft = clone(P()[Number(b.dataset.edit)]); draft._index = Number(b.dataset.edit); renderAdmin(); }));
   $$('[data-up]').forEach(b => b.addEventListener('click', () => { const i = Number(b.dataset.up); [P()[i-1], P()[i]] = [P()[i], P()[i-1]]; persist('Order updated'); renderAdmin(); }));
   $$('[data-down]').forEach(b => b.addEventListener('click', () => { const i = Number(b.dataset.down); [P()[i+1], P()[i]] = [P()[i], P()[i+1]]; persist('Order updated'); renderAdmin(); }));
@@ -946,6 +954,7 @@ function renderForm(body){
     <label class="field"><span>Item name *</span><input id="fName" value="${esc(d.name)}" placeholder="e.g. PRD RE-NYLON ZIP SHIRT - BLACK"></label>
     <div class="grid2">
       <label class="field"><span>Category</span><select id="fCat">${CATEGORIES.map(c => `<option ${d.category===c?'selected':''}>${c}</option>`).join('')}</select></label>
+      <label class="field"><span>Section</span><select id="fGender">${[['men','Men'],['women','Women'],['unisex','Men & Women']].map(([v,l]) => `<option value="${v}" ${(d.gender||'men')===v?'selected':''}>${l}</option>`).join('')}</select></label>
       <label class="field"><span>Type</span><input id="fType" list="typeList" value="${esc(d.type||'')}" placeholder="t-shirts, trainers…"><datalist id="typeList">${typeOpts.map(t => `<option value="${esc(t)}">`).join('')}</datalist></label>
       <label class="field"><span>Price (£) *</span><input id="fPrice" type="number" min="0" step="0.01" value="${esc(d.price)}"></label>
       <label class="field"><span>Was price (£) – leave blank unless on sale</span><input id="fCompare" type="number" min="0" step="0.01" value="${esc(d.compareAt ?? '')}"></label>
@@ -987,7 +996,7 @@ function renderForm(body){
     if (!name) return toast('Please enter a name', true);
     if (!(price >= 0) || $('#fPrice').value === '') return toast('Please enter a price', true);
     const cmp = $('#fCompare').value === '' ? null : Number($('#fCompare').value);
-    const item = { id: d._new || slug(name) !== d.id ? uniqueId(slug(name), d._new ? null : P()[d._index]) : d.id, name, category: $('#fCat').value, type: $('#fType').value.trim().toLowerCase(), colour: $('#fColour').value.trim(), price, compareAt: cmp && cmp > price ? cmp : null,
+    const item = { id: d._new || slug(name) !== d.id ? uniqueId(slug(name), d._new ? null : P()[d._index]) : d.id, name, category: $('#fCat').value, gender: $('#fGender').value, type: $('#fType').value.trim().toLowerCase(), colour: $('#fColour').value.trim(), price, compareAt: cmp && cmp > price ? cmp : null,
       sizes: $('#fSizes').value.split(',').map(s => s.trim()).filter(Boolean), optionLabel: ($('#fOptLabel').value.trim() && $('#fOptLabel').value.trim().toLowerCase() !== 'size') ? $('#fOptLabel').value.trim() : undefined, images: d.images.slice(), tags: [$('#fNew').checked && 'new', $('#fPre').checked && 'pre-order'].filter(Boolean), description: $('#fDesc').value.trim(), soldOut: $('#fSold').checked };
     if (d._new) P().unshift(item); else { const old = P()[d._index]; if (old && old.id !== item.id) cart.forEach(l => { if (l.id === old.id) l.id = item.id; }); P()[d._index] = item; }
     draft = null; persist(d._new ? 'Item added' : 'Item updated'); renderAdmin();
