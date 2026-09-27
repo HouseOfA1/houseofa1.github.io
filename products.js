@@ -1157,7 +1157,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Black",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1183,7 +1183,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Navy",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1210,7 +1210,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "White",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1236,7 +1236,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Khaki",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1262,7 +1262,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Orange",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1288,7 +1288,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Black",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1314,7 +1314,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Navy",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1340,7 +1340,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Black",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1366,7 +1366,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "White",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1392,7 +1392,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Green",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1417,7 +1417,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Navy",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
@@ -2855,7 +2855,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Green",
-      "price": 150,
+      "price": 165,
       "compareAt": null,
       "sizes": [
         "S",
