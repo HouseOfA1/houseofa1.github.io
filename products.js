@@ -924,33 +924,6 @@ window.HOUSE_OF_A1 = {
       "optionLabel": "Colour"
     },
     {
-      "id": "on-logo-cap-choose-your-colour",
-      "name": "ON LOGO CAP - CHOOSE YOUR COLOUR",
-      "category": "caps",
-      "type": "caps",
-      "colour": "Assorted",
-      "price": 85,
-      "compareAt": null,
-      "sizes": [
-        "Cream",
-        "Blue",
-        "Pink",
-        "Navy",
-        "White",
-        "Grey",
-        "Black"
-      ],
-      "images": [
-        "img/house-of-a1-291.jpg"
-      ],
-      "tags": [
-        "new"
-      ],
-      "description": "Lightweight running cap with an embroidered logo and adjustable strap, in seven colours. One size.",
-      "soldOut": false,
-      "optionLabel": "Colour"
-    },
-    {
       "id": "lv-lettering-cap-brown",
       "name": "LV LETTERING CAP - BROWN",
       "category": "caps",
