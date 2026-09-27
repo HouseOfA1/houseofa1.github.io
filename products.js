@@ -22,6 +22,441 @@ window.HOUSE_OF_A1 = {
   },
   "products": [
     {
+      "id": "lv-monogram-dopp-kit-burgundy",
+      "name": "LV MONOGRAM DOPP KIT - BURGUNDY",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Burgundy",
+      "price": 110,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-345.jpg",
+        "img/house-of-a1-346.jpg",
+        "img/house-of-a1-347.jpg",
+        "img/house-of-a1-348.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-monogram-dopp-kit-orange",
+      "name": "LV MONOGRAM DOPP KIT - ORANGE",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Orange",
+      "price": 110,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-349.jpg",
+        "img/house-of-a1-350.jpg",
+        "img/house-of-a1-352.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-monogram-dopp-kit-cream",
+      "name": "LV MONOGRAM DOPP KIT - CREAM",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Cream",
+      "price": 110,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-353.jpg",
+        "img/house-of-a1-354.jpg",
+        "img/house-of-a1-355.jpg",
+        "img/house-of-a1-356.jpg",
+        "img/house-of-a1-351.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-monogram-dopp-kit-green",
+      "name": "LV MONOGRAM DOPP KIT - GREEN",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Green",
+      "price": 110,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-357.jpg",
+        "img/house-of-a1-358.jpg",
+        "img/house-of-a1-359.jpg",
+        "img/house-of-a1-360.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Monogram coated canvas wash bag with a wraparound zip, leather side handle, cowhide leather lining and Marque Déposée print. Comes with tags.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-cherry-speedy-25-white",
+      "name": "LV CHERRY SPEEDY 25 - WHITE",
+      "category": "bags",
+      "type": "bags",
+      "colour": "White",
+      "price": 185,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-361.jpg",
+        "img/house-of-a1-362.jpg",
+        "img/house-of-a1-363.jpg",
+        "img/house-of-a1-364.jpg",
+        "img/house-of-a1-365.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Speedy 25 in white monogram canvas with an all-over cherry print, natural leather handles and trim, padlock and denim-lined interior.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-cherry-denim-pleated-shoulder-bag",
+      "name": "LV CHERRY DENIM PLEATED SHOULDER BAG",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Denim",
+      "price": 185,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-366.jpg",
+        "img/house-of-a1-367.jpg",
+        "img/house-of-a1-368.jpg",
+        "img/house-of-a1-369.jpg",
+        "img/house-of-a1-370.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Pleated denim shoulder bag with cherry print monogram, leather top handle, gold-tone push-lock and 20th anniversary leather patch.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-cherry-blossom-speedy-25-brown",
+      "name": "LV CHERRY BLOSSOM SPEEDY 25 - BROWN",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Brown",
+      "price": 185,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-371.jpg",
+        "img/house-of-a1-372.jpg",
+        "img/house-of-a1-373.jpg",
+        "img/house-of-a1-374.jpg",
+        "img/house-of-a1-375.jpg",
+        "img/house-of-a1-376.jpg",
+        "img/house-of-a1-377.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Speedy 25 in monogram canvas with pink cherry blossom print, natural leather handles, padlock, pink lining and 20th anniversary leather patch.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-alma-bb-cream",
+      "name": "LV ALMA BB - CREAM",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Cream",
+      "price": 165,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-378.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Alma BB in cream embossed monogram leather with rolled handles, gold-tone hardware and a fluffy bag charm.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-damier-keepall-45-brown",
+      "name": "LV DAMIER KEEPALL 45 - BROWN",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Brown",
+      "price": 195,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-379.jpg",
+        "img/house-of-a1-380.jpg",
+        "img/house-of-a1-381.jpg",
+        "img/house-of-a1-382.jpg",
+        "img/house-of-a1-383.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Damier check canvas with black leather trim and red interior.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-monogram-eclipse-keepall-45-black",
+      "name": "LV MONOGRAM ECLIPSE KEEPALL 45 - BLACK",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Black",
+      "price": 195,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-384.jpg",
+        "img/house-of-a1-385.jpg",
+        "img/house-of-a1-386.jpg",
+        "img/house-of-a1-387.jpg",
+        "img/house-of-a1-388.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Black and grey monogram canvas with black leather trim.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-monogram-embossed-keepall-45-navy",
+      "name": "LV MONOGRAM EMBOSSED KEEPALL 45 - NAVY",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Navy",
+      "price": 195,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-389.jpg",
+        "img/house-of-a1-390.jpg",
+        "img/house-of-a1-391.jpg",
+        "img/house-of-a1-392.jpg",
+        "img/house-of-a1-393.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Navy embossed monogram leather with tonal trim.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-world-tour-keepall-45",
+      "name": "LV WORLD TOUR KEEPALL 45",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Brown",
+      "price": 195,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-394.jpg",
+        "img/house-of-a1-395.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Monogram canvas covered in printed travel stickers with natural leather trim.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-monogram-keepall-45-sage",
+      "name": "LV MONOGRAM KEEPALL 45 - SAGE",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Sage",
+      "price": 195,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-396.jpg",
+        "img/house-of-a1-397.jpg",
+        "img/house-of-a1-398.jpg",
+        "img/house-of-a1-399.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Sage green leather with an oversized white monogram print and tonal trim.",
+      "soldOut": false
+    },
+    {
+      "id": "lv-denim-monogram-keepall-45-light-blue",
+      "name": "LV DENIM MONOGRAM KEEPALL 45 - LIGHT BLUE",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Light Blue",
+      "price": 195,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-400.jpg",
+        "img/house-of-a1-401.jpg",
+        "img/house-of-a1-402.jpg",
+        "img/house-of-a1-403.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Keepall 45 travel bag with rolled top handles, detachable shoulder strap, zip closure and padlock. Cabin-size. Light blue monogram denim with blue leather trim and navy interior.",
+      "soldOut": false
+    },
+    {
+      "id": "gyrd-goyardine-zip-pouch-black-tan",
+      "name": "GYRD GOYARDINE ZIP POUCH - BLACK / TAN",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Black",
+      "price": 125,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-404.jpg",
+        "img/house-of-a1-405.jpg",
+        "img/house-of-a1-406.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
+      "soldOut": false
+    },
+    {
+      "id": "gyrd-goyardine-zip-pouch-black",
+      "name": "GYRD GOYARDINE ZIP POUCH - BLACK",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Black",
+      "price": 125,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-407.jpg",
+        "img/house-of-a1-408.jpg",
+        "img/house-of-a1-409.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
+      "soldOut": false
+    },
+    {
+      "id": "gyrd-goyardine-zip-pouch-red",
+      "name": "GYRD GOYARDINE ZIP POUCH - RED",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Red",
+      "price": 125,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-410.jpg",
+        "img/house-of-a1-411.jpg",
+        "img/house-of-a1-412.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
+      "soldOut": false
+    },
+    {
+      "id": "gyrd-goyardine-zip-pouch-green",
+      "name": "GYRD GOYARDINE ZIP POUCH - GREEN",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Green",
+      "price": 125,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-413.jpg",
+        "img/house-of-a1-414.jpg",
+        "img/house-of-a1-415.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
+      "soldOut": false
+    },
+    {
+      "id": "gyrd-goyardine-zip-pouch-navy",
+      "name": "GYRD GOYARDINE ZIP POUCH - NAVY",
+      "category": "bags",
+      "type": "bags",
+      "colour": "Navy",
+      "price": 125,
+      "compareAt": null,
+      "sizes": [
+        "One Size"
+      ],
+      "images": [
+        "img/house-of-a1-416.jpg",
+        "img/house-of-a1-417.jpg",
+        "img/house-of-a1-418.jpg"
+      ],
+      "tags": [
+        "new"
+      ],
+      "description": "Goyardine coated canvas zip pouch with leather trim, front slip pocket and contrast yellow interior. Fits documents and a tablet.",
+      "soldOut": false
+    },
+    {
       "id": "prd-re-nylon-messenger-bag-black",
       "name": "PRD RE-NYLON MESSENGER BAG - BLACK",
       "category": "bags",
