@@ -823,10 +823,12 @@ function renderCart(){
 /* ---------------- checkout (order by message) ---------------- */
 function orderText(){
   const s = S();
-  const lines = cartLines().map(l => `${l.qty} x ${l.p.name}${l.size ? ` (${l.size})` : ''} - ${money(l.p.price * l.qty)}`);
+  const site = location.protocol.startsWith('http') ? location.origin + location.pathname.replace(/index\.html$/, '') : '';
+  const lines = cartLines().map(l => `${l.qty} x ${l.p.name}${l.size ? ` (${l.p.optionLabel ? l.p.optionLabel + ' ' : ''}${l.size})` : ''} - ${money(l.p.price * l.qty)}` + (site ? `\n   ${site}#/p/${l.p.id}` : ''));
   const name = $('#coName').value.trim(), post = $('#coPost').value.trim(), addr = $('#coAddr').value.trim(), note = $('#coNote').value.trim();
   return [`Hi ${s.storeName || 'House of A1'}, I'd like to order:`, '', ...lines, '', `Subtotal: ${money(cartTotal())}`,
-    name ? `Name: ${name}` : '', addr || post ? `Address: ${[addr, post].filter(Boolean).join(', ')}` : '', note ? `Note: ${note}` : ''].filter((x,i,a) => x !== '' || a[i-1] !== '').join('\n');
+    name ? `Name: ${name}` : '', addr || post ? `Address: ${[addr, post].filter(Boolean).join(', ')}` : '', note ? `Note: ${note}` : '',
+    site ? `\nSent from ${site.replace(/^https?:\/\//, '').replace(/\/$/, '')}` : ''].filter((x,i,a) => x !== '' || a[i-1] !== '').join('\n');
 }
 function openCheckout(){
   const lines = cartLines(); if (!lines.length) { toast('Your bag is empty', true); return; }
