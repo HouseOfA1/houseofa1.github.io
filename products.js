@@ -1780,7 +1780,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shirts",
       "colour": "Light Blue",
-      "price": 110,
+      "price": 175,
       "compareAt": null,
       "sizes": [
         "S",
