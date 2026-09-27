@@ -3556,7 +3556,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Black",
-      "price": 110,
+      "price": 190,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -3574,7 +3574,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shirts",
       "colour": "Grey",
-      "price": 110,
+      "price": 190,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3598,7 +3598,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shirts",
       "colour": "Light Blue",
-      "price": 110,
+      "price": 190,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3838,7 +3838,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shorts",
       "colour": "Black",
-      "price": 110,
+      "price": 190,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3862,7 +3862,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shirts",
       "colour": "Black",
-      "price": 110,
+      "price": 190,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3886,7 +3886,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shirts",
       "colour": "Beige",
-      "price": 110,
+      "price": 190,
       "compareAt": null,
       "sizes": [
         "S",
