@@ -2908,7 +2908,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shorts",
       "colour": "Black",
-      "price": 65,
+      "price": 90,
       "compareAt": null,
       "sizes": [
         "S",
@@ -2987,7 +2987,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "shorts",
       "colour": "Black",
-      "price": 65,
+      "price": 90,
       "compareAt": null,
       "sizes": [
         "S",
