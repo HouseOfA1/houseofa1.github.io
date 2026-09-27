@@ -1130,7 +1130,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Black",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1156,7 +1156,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Navy",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1183,7 +1183,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "White",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1209,7 +1209,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Khaki",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1235,7 +1235,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Orange",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1261,7 +1261,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Black",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1287,7 +1287,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Navy",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1313,7 +1313,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Black",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1339,7 +1339,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "White",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1365,7 +1365,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Green",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1390,7 +1390,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Navy",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1415,7 +1415,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "coats",
       "colour": "Black",
-      "price": 195,
+      "price": 310,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1441,7 +1441,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "coats",
       "colour": "Gunmetal",
-      "price": 195,
+      "price": 310,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1467,7 +1467,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "coats",
       "colour": "Olive",
-      "price": 195,
+      "price": 310,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1493,7 +1493,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Light Blue",
-      "price": 165,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1516,7 +1516,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Grey",
-      "price": 165,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1538,7 +1538,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Black",
-      "price": 165,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1561,7 +1561,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Denim",
-      "price": 165,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1583,7 +1583,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "White",
-      "price": 185,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1604,7 +1604,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Light Blue",
-      "price": 185,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1625,7 +1625,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Grey Blue",
-      "price": 185,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -1646,7 +1646,7 @@ window.HOUSE_OF_A1 = {
       "category": "footwear",
       "type": "heels",
       "colour": "Grey Denim",
-      "price": 135,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "UK 3",
@@ -1674,7 +1674,7 @@ window.HOUSE_OF_A1 = {
       "category": "footwear",
       "type": "heels",
       "colour": "Pink",
-      "price": 135,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "UK 3",
@@ -1702,7 +1702,7 @@ window.HOUSE_OF_A1 = {
       "category": "footwear",
       "type": "heels",
       "colour": "Blue Denim",
-      "price": 135,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "UK 3",
@@ -1729,7 +1729,7 @@ window.HOUSE_OF_A1 = {
       "category": "footwear",
       "type": "heels",
       "colour": "White",
-      "price": 135,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "UK 3",
@@ -1807,7 +1807,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Black",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1834,7 +1834,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "White",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1861,7 +1861,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Light Blue",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -1888,7 +1888,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Green",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -2828,7 +2828,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Green",
-      "price": 165,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -2882,7 +2882,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Black",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -2934,7 +2934,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "White",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -2961,7 +2961,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "White",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3646,7 +3646,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Black",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3670,7 +3670,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Beige",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3694,7 +3694,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Blue",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3718,7 +3718,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Black",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3742,7 +3742,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Grey",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3766,7 +3766,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Navy",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3790,7 +3790,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Cream",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3814,7 +3814,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Black",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3934,7 +3934,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Blue",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3958,7 +3958,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "White",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -3982,7 +3982,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Green",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4006,7 +4006,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Cream",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4030,7 +4030,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "White",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4054,7 +4054,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Navy",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4078,7 +4078,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Blue",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4102,7 +4102,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Brown",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4126,7 +4126,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "White",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4174,7 +4174,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "t-shirts",
       "colour": "Grey",
-      "price": 80,
+      "price": 110,
       "compareAt": null,
       "sizes": [
         "S",
