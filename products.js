@@ -737,7 +737,7 @@ window.HOUSE_OF_A1 = {
       "category": "accessories",
       "type": "accessories",
       "colour": "Burgundy",
-      "price": 65,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -758,7 +758,7 @@ window.HOUSE_OF_A1 = {
       "category": "accessories",
       "type": "accessories",
       "colour": "Green",
-      "price": 65,
+      "price": 85,
       "compareAt": null,
       "sizes": [
         "One Size"
