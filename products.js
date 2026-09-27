@@ -2855,7 +2855,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "hoodies",
       "colour": "Black",
-      "price": 135,
+      "price": 230,
       "compareAt": null,
       "sizes": [
         "S",
