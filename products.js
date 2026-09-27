@@ -934,7 +934,7 @@ window.HOUSE_OF_A1 = {
       "description": "Distressed cotton baseball cap with a small embroidered CC logo, in seven colours. One size.",
       "soldOut": false,
       "optionLabel": "Colour",
-      "gender": "women"
+      "gender": "unisex"
     },
     {
       "id": "ch-cross-cap-choose-your-colour",
