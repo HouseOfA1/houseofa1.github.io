@@ -4394,7 +4394,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Black",
-      "price": 110,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
