@@ -119,7 +119,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "White",
-      "price": 210,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -143,7 +143,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Denim",
-      "price": 210,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -167,7 +167,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Brown",
-      "price": 230,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -193,7 +193,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Cream",
-      "price": 165,
+      "price": 250,
       "compareAt": null,
       "sizes": [
         "One Size"
