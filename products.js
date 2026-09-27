@@ -3556,7 +3556,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Black",
-      "price": 190,
+      "price": 210,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -3622,7 +3622,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "jackets",
       "colour": "Brown",
-      "price": 110,
+      "price": 200,
       "compareAt": null,
       "sizes": [
         "S",
@@ -4150,7 +4150,7 @@ window.HOUSE_OF_A1 = {
       "category": "clothing",
       "type": "hoodies",
       "colour": "Black",
-      "price": 135,
+      "price": 195,
       "compareAt": null,
       "sizes": [
         "S",
