@@ -550,7 +550,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Navy",
-      "price": 95,
+      "price": 150,
       "compareAt": null,
       "sizes": [
         "One Size"
@@ -570,7 +570,7 @@ window.HOUSE_OF_A1 = {
       "category": "bags",
       "type": "bags",
       "colour": "Black",
-      "price": 95,
+      "price": 150,
       "compareAt": null,
       "sizes": [
         "One Size"
