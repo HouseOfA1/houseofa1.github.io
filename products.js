@@ -11,7 +11,7 @@ window.HOUSE_OF_A1 = {
     "whatsapp": "+44 7384150554",
     "instagram": "",
     "tiktok": "",
-    "telegram": "",
+    "telegram": "HOUSEOFA1",
     "email": "",
     "supportHours": "Mon – Sun: 10am – 8pm",
     "deliveryNote": "Shipping time is 2–3 weeks from order. Tracking number sent on dispatch.",
